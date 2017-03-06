@@ -1,3 +1,4 @@
 # SC_Repository
 SC Repository
-This is child branch...
+
+This is final child changes
